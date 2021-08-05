@@ -10,8 +10,8 @@ All options currently work.
   4. The arrow keys move the cursor.
 
 # Restrictions
-1. The name of map must only be alpha numeric.
+1. The name of map must only be alpha-numeric.
 2. Width of map must be numeric and greater than 12.
 3. Height of map must be numeric and greater than 8.
 
-Violating these restrictions will sent you back to the start menu
+Violating these restrictions will just sent you back to the start menu without execpting your input
