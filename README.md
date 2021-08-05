@@ -7,7 +7,7 @@ All options currently work.
   1. Spacebar is the Select Button.
   2. Return(non-numbpad enter) is the Start Menu Button.
   3. The "a" key is now the Terain Menu Button.
-  4. the arrow keys move the cursor.
+  4. The arrow keys move the cursor.
 
 # Restrictions
 1. The name of map must only be alpha numeric.
