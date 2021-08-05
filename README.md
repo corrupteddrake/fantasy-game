@@ -5,7 +5,7 @@ All options currently work.
 
 # Buttons
   1. Spacebar is the Select Button.
-  2. Return(non numbpad enter) is the Start Menu Button.
+  2. Return(non-numbpad enter) is the Start Menu Button.
   3. The a key is now the Terain Menu Button.
   4. the arrow keys move the cursor.
 
