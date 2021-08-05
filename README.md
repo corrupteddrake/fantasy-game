@@ -1,11 +1,17 @@
 mapeditor.exe is now a stand alone .exe
 
-spacebar is select
-return(non numbpad enter) is the menu button
-the arrow keys move the cursor
+All options currently work.
 
-all options currently work
 
-the name of map must only be alpha numeric
-Width of map must be greater than 12
-Height of map must be greater than 8
+# Buttons
+  1. Spacebar is the Select Button.
+  2. Return(non numbpad enter) is the Start Menu Button.
+  3. The a key is now the Terain Menu Button.
+  4. the arrow keys move the cursor.
+
+# Restrictions
+1. The name of map must only be alpha numeric.
+2. Width of map must be numeric and greater than 12.
+3. Height of map must be numeric and greater than 8.
+
+Violating these restrictions will sent you back to the start menu
