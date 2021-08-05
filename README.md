@@ -15,7 +15,7 @@ All options currently work.
 
 # ![roadrightleft - Copy](https://user-images.githubusercontent.com/31811140/128297863-c426da28-ec4e-438d-bc8b-e6c363078f79.png) Restrictions 
 
-1. The name of map must only be alpha-numeric.
+1. The name of map must be alpha-numeric.
 2. Width of map must be numeric and greater than 12.
 3. Height of map must be numeric and greater than 8.
 
