@@ -19,4 +19,4 @@ All options currently work.
 2. Width of map must be numeric and greater than 12.
 3. Height of map must be numeric and greater than 8.
 
-Violating these restrictions will just sent you back to the Start Menu without accepting your input.
+Violating these restrictions will just sent you back to the Start Menu without accepting your incorrect input.
