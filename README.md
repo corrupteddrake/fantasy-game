@@ -1,4 +1,4 @@
-# ![castle](https://user-images.githubusercontent.com/31811140/128297661-664cc63c-1bb6-4dec-ad70-184095c760ca.png) Myth Wars
+# ![castle](https://user-images.githubusercontent.com/31811140/128297661-664cc63c-1bb6-4dec-ad70-184095c760ca.png) Mythic Lords
 
 mapeditor.exe is now a stand alone .exe
 
