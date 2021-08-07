@@ -2,7 +2,6 @@
 
 mapeditor.exe is now a stand alone .exe
 
-All options currently work.
 
 
 
