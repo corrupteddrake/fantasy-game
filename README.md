@@ -10,14 +10,14 @@ All options currently work.
   1. Spacebar is the Select Button.
   2. Return(non-numbpad enter) is the Start Menu Button.
   3. The "a" key is now the Terain Menu Button.
-  4. The "b" key is now the Units Menu Button.
+  4. The "s" key is now the Units Menu Button.
   5. The arrow keys moves the cursor.
 
 
 # ![roadrightleft - Copy](https://user-images.githubusercontent.com/31811140/128297863-c426da28-ec4e-438d-bc8b-e6c363078f79.png) Restrictions 
 
-1. The name of map must be alpha-numeric.
-2. Width of map must be numeric and greater than 12.
-3. Height of map must be numeric and greater than 8.
+1. The name of map must be alpha-numeric or spaces.
+2. Width of map must be numeric and niether less than 1 nor greater than 999.
+3. Height of map must be numeric and niether less than 1 nor greater than 999.
 
 Violating these restrictions will just sent you back to the Start Menu without accepting your incorrect input.
