@@ -10,7 +10,8 @@ All options currently work.
   1. Spacebar is the Select Button.
   2. Return(non-numbpad enter) is the Start Menu Button.
   3. The "a" key is now the Terain Menu Button.
-  4. The arrow keys moves the cursor.
+  4. The "b" key is now the Units Menu Button.
+  5. The arrow keys moves the cursor.
 
 
 # ![roadrightleft - Copy](https://user-images.githubusercontent.com/31811140/128297863-c426da28-ec4e-438d-bc8b-e6c363078f79.png) Restrictions 
